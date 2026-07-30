@@ -33,7 +33,7 @@ several of the addons below depend on them.
 | Modern Map Markers | 2.4 | https://github.com/tilare/ModernMapMarkers *(I run an OctoWoW variant with Atlas + transport-destination support)* |
 | LevelRange [Turtle] | 2.2.0 | https://github.com/Spartelfant/LevelRange-Turtle |
 | Atlas-TW (Atlas-CFM) | 1.60 | https://github.com/byCFM2/Atlas-TW |
-| PizzaSlices | 1.5.2 | *radial action menus, by Pizzahawaii — installed manually* |
+| PizzaSlices | 1.5.2 | by Pizzahawaii — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
 | Turtle_General / Turtle_GroupUI | — | *bundled with the client* |
 
 ## Quests & world
@@ -43,7 +43,7 @@ several of the addons below depend on them.
 | pfQuest | 8.0.0 | https://github.com/shagu/pfQuest |
 | pfQuest [TurtleWoW DB] | — | https://github.com/shagu/pfQuest-turtle |
 | pfExtend | 1.0.5 | **[my fork](https://github.com/roby-brok/pfExtend)** — original by [Cliencer](https://github.com/Cliencer/pfExtend) and TinyStick |
-| FlightMap | 1.12-1 | *Dhask's FlightMap — installed manually* |
+| FlightMap | 1.12-1 | by Dhask — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
 
 ## Combat
 
@@ -54,9 +54,9 @@ several of the addons below depend on them.
 | ShaguDPS | 3.0.1 | https://github.com/shagu/ShaguDPS |
 | Modified Power Auras | 1.5 | https://github.com/tdymel/ModifiedPowerAuras |
 | DoiteAuras | 1.8.7 | https://github.com/Player-Doite/DoiteAuras |
-| Mik's Scrolling Battle Text | 4.43 | *classic addon by Mik — installed manually* |
-| Aegis: RallyPower | 0.15.0 | *by Subtilizer (Torchlite) — installed manually* |
-| Aegis: Single Button Rotation | 0.15.5 | *by Mercaius & Subtilizer (Torchlite) — installed manually* |
+| Mik's Scrolling Battle Text | 4.43 | by Mik — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
+| Aegis: RallyPower | 0.15.0 | https://github.com/Torchlite-bit/Aegis_RallyPower |
+| Aegis: Single Button Rotation | 0.15.5 | https://github.com/Torchlite-bit/Aegis_SBR |
 
 ## Macros & API
 
@@ -76,7 +76,7 @@ several of the addons below depend on them.
 | ItemRack | 1.98 | https://github.com/McPewPew/ItemRack |
 | SortBags | — | https://github.com/shirsig/SortBags |
 | BetterCharacterStats | 1.15.3 | https://github.com/pepopo978/BetterCharacterStats |
-| StatCompare | 2.0.0 Beta | *by slashboy, updated by Provocateur@turtlewow — installed manually* |
+| StatCompare | 2.0.0 Beta | by slashboy, updated by Provocateur@turtlewow — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
 | TurtleMail | 1.4.5 | https://github.com/sica42/TurtleMail |
 | PizzaWorldBuffs | 2.0.0 | https://github.com/acid9000/PizzaWorldBuffs |
 
@@ -84,9 +84,11 @@ several of the addons below depend on them.
 
 ## Notes
 
-**Entries marked *installed manually* have no source link on purpose.** I could not verify where
-those copies came from, and pointing you at a repository I haven't confirmed is worse than saying
-nothing. If you know the correct home for one of them, please open an issue.
+**Entries marked *mirror* have no live upstream I could find.** Rather than leave people with no
+way to get them, I re-uploaded those copies unmodified to
+[octowow-addon-mirrors](https://github.com/roby-brok/octowow-addon-mirrors) — that repository makes
+very clear they are not my work and lists each author. If you know the real home for one of them,
+please open an issue and I will link it and delete the copy.
 
 **Most of these install through the OctoWoW launcher**, which keeps its own catalogue at
 `https://octowow.st/api/addons.json`. That is the easiest route and it handles updates for you.
