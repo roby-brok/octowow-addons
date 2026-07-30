@@ -30,7 +30,7 @@ several of the addons below depend on them.
 | pfUI | 9.0.0 | **[my fork](https://github.com/roby-brok/pfUI)** — original by [Shagu](https://github.com/shagu/pfUI), Turtle edition by me0wg4ming |
 | pfUI [Addon Skinner] | 0.4 | https://github.com/jrc13245/pfUI-addonskinner |
 | pfUI [Better Totems] | 1.0 | **[my fork](https://github.com/roby-brok/pfUI-bettertotems)** — original by [Bombg](https://github.com/Bombg/pfUI-bettertotems) |
-| Modern Map Markers | 2.4 | https://github.com/tilare/ModernMapMarkers *(I run an OctoWoW variant with Atlas + transport-destination support)* |
+| Modern Map Markers [Octo] | 2.4 | https://github.com/paokkerkir/ModernMapMarkers-octo — an OctoWoW fork of [tilare's original](https://github.com/tilare/ModernMapMarkers), adding Atlas map links and transport destinations |
 | LevelRange [Turtle] | 2.2.0 | https://github.com/Spartelfant/LevelRange-Turtle |
 | Atlas-TW (Atlas-CFM) | 1.60 | https://github.com/byCFM2/Atlas-TW |
 | PizzaSlices | 1.5.2 | by Pizzahawaii — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
