@@ -41,8 +41,7 @@ several of the addons below depend on them.
 | Addon | Version | Source |
 |---|---|---|
 | pfQuest | 8.0.0 | **[my fork](https://github.com/roby-brok/pfQuest)** — adds map icon scaling and a fix for the map detaching from the quest log; built on [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest) continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
-| pfQuest [TurtleWoW DB] | — | https://github.com/The-Kludge-Bureau/pfQuest-turtle |
-| pfQuest [Octo DB] | — | https://github.com/paokkerkir/pfQuest-octo — adds OctoWoW quest data and points quest links at [octowow.st/db](https://octowow.st/db) |
+| pfQuest [Octo DB] | — | **[my pack](https://github.com/roby-brok/pfQuest-octo)** — [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest-turtle) TurtleWoW database with [paokkerkir's](https://github.com/paokkerkir/pfQuest-octo) Octo pack folded in, so you do not have to pick one. Replaces both — do not install them alongside it. |
 | pfExtend | 1.0.5 | **[my fork](https://github.com/roby-brok/pfExtend)** — original by [Cliencer](https://github.com/Cliencer/pfExtend) and TinyStick |
 | FlightMap | 1.12-1 | by Dhask — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
 
