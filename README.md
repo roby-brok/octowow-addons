@@ -27,7 +27,7 @@ several of the addons below depend on them.
 
 | Addon | Version | Source |
 |---|---|---|
-| pfUI | 9.0.0 | **[my fork](https://github.com/roby-brok/pfUI)** — original by [Shagu](https://github.com/shagu/pfUI), Turtle edition by me0wg4ming |
+| pfUI | 9.0.7 | **[my fork](https://github.com/roby-brok/pfUI)** — original by [Shagu](https://github.com/shagu/pfUI), Turtle edition by me0wg4ming |
 | pfUI [Addon Skinner] | 0.4 | https://github.com/jrc13245/pfUI-addonskinner |
 | pfUI [Better Totems] | 1.0 | **[my fork](https://github.com/roby-brok/pfUI-bettertotems)** — original by [Bombg](https://github.com/Bombg/pfUI-bettertotems) |
 | Modern Map Markers [Octo] | 2.4 | https://github.com/paokkerkir/ModernMapMarkers-octo — an OctoWoW fork of [tilare's original](https://github.com/tilare/ModernMapMarkers), adding Atlas map links and transport destinations |
@@ -40,8 +40,9 @@ several of the addons below depend on them.
 
 | Addon | Version | Source |
 |---|---|---|
-| pfQuest | 8.0.0 | https://github.com/shagu/pfQuest |
-| pfQuest [TurtleWoW DB] | — | https://github.com/shagu/pfQuest-turtle |
+| pfQuest | 8.0.0 | https://github.com/The-Kludge-Bureau/pfQuest — a maintained continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
+| pfQuest [TurtleWoW DB] | — | https://github.com/The-Kludge-Bureau/pfQuest-turtle |
+| pfQuest [Octo DB] | — | https://github.com/paokkerkir/pfQuest-octo — adds OctoWoW quest data and points quest links at [octowow.st/db](https://octowow.st/db) |
 | pfExtend | 1.0.5 | **[my fork](https://github.com/roby-brok/pfExtend)** — original by [Cliencer](https://github.com/Cliencer/pfExtend) and TinyStick |
 | FlightMap | 1.12-1 | by Dhask — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
 
@@ -50,13 +51,13 @@ several of the addons below depend on them.
 | Addon | Version | Source |
 |---|---|---|
 | BigWigs | 2.0.0 | https://github.com/pepopo978/BigWigs |
-| TWThreat | 1.2.3 | https://github.com/CosminPOP/TWThreat |
+| TWThreat | 1.3.0 | https://github.com/MarcelineVQ/TWThreat |
 | ShaguDPS | 3.0.1 | https://github.com/shagu/ShaguDPS |
 | Modified Power Auras | 1.5 | https://github.com/tdymel/ModifiedPowerAuras |
 | DoiteAuras | 1.8.7 | https://github.com/Player-Doite/DoiteAuras |
 | Mik's Scrolling Battle Text | 4.43 | by Mik — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
-| Aegis: RallyPower | 0.15.0 | https://github.com/Torchlite-bit/Aegis_RallyPower |
-| Aegis: Single Button Rotation | 0.15.5 | https://github.com/Torchlite-bit/Aegis_SBR |
+| Aegis: RallyPower | 1.1.0 | https://github.com/Torchlite-bit/Aegis_RallyPower |
+| Aegis: Single Button Rotation | 1.1.4 | https://github.com/Torchlite-bit/Aegis_SBR |
 
 ## Macros & API
 
