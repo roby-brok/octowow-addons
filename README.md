@@ -40,7 +40,7 @@ several of the addons below depend on them.
 
 | Addon | Version | Source |
 |---|---|---|
-| pfQuest | 8.0.0 | https://github.com/The-Kludge-Bureau/pfQuest — a maintained continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
+| pfQuest | 8.0.0 | **[my fork](https://github.com/roby-brok/pfQuest)** — adds map icon scaling and a fix for the map detaching from the quest log; built on [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest) continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
 | pfQuest [TurtleWoW DB] | — | https://github.com/The-Kludge-Bureau/pfQuest-turtle |
 | pfQuest [Octo DB] | — | https://github.com/paokkerkir/pfQuest-octo — adds OctoWoW quest data and points quest links at [octowow.st/db](https://octowow.st/db) |
 | pfExtend | 1.0.5 | **[my fork](https://github.com/roby-brok/pfExtend)** — original by [Cliencer](https://github.com/Cliencer/pfExtend) and TinyStick |
@@ -94,7 +94,7 @@ please open an issue and I will link it and delete the copy.
 **Most of these install through the OctoWoW launcher**, which keeps its own catalogue at
 `https://octowow.st/api/addons.json`. That is the easiest route and it handles updates for you.
 
-**The three forks** exist only to carry fixes I hit while playing. Each one's README explains what
+**The forks** exist only to carry fixes I hit while playing. Each one's README explains what
 was changed and why, and none of the changes are OctoWoW-specific. Use the original repositories
 unless you specifically want those fixes — and if an upstream author wants a change, it's theirs to
 take.
