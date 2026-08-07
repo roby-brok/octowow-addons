@@ -77,7 +77,7 @@ several of the addons below depend on them.
 | SortBags | — | https://github.com/shirsig/SortBags |
 | BetterCharacterStats | 1.15.3 | https://github.com/pepopo978/BetterCharacterStats |
 | StatCompare | 2.0.0 Beta | by slashboy, updated by Provocateur@turtlewow — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
-| TurtleMail | 1.4.5 | https://github.com/sica42/TurtleMail |
+| OctoMail | 1.5.0 | **[my fork](https://github.com/roby-brok/OctoMail)** of [TurtleMail](https://github.com/sica42/TurtleMail) by [shirsig](https://github.com/shirsig) and [sica42](https://github.com/sica42) — fixes an autocomplete list and a mail log that both grew forever. Imports your TurtleMail data on first run |
 | PizzaWorldBuffs | 2.0.0 | https://github.com/acid9000/PizzaWorldBuffs |
 
 ---
