@@ -50,7 +50,7 @@ several of the addons below depend on them.
 | Addon | Version | Source |
 |---|---|---|
 | BigWigs | 2.0.0 | https://github.com/pepopo978/BigWigs |
-| TWThreat | 1.3.0 | https://github.com/MarcelineVQ/TWThreat |
+| OWThreat | 1.4.0 | **[my fork](https://github.com/roby-brok/OWThreat)** — original ([TWThreat](https://github.com/MarcelineVQ/TWThreat)) by Xerron/Er. Renamed, with ~15 bug fixes and the dead code stripped out. Speaks the same threat API, so it still works with raiders running stock TWThreat — but do not install both |
 | ShaguDPS | 3.0.1 | https://github.com/shagu/ShaguDPS |
 | Modified Power Auras | 1.5 | https://github.com/tdymel/ModifiedPowerAuras |
 | DoiteAuras | 1.8.7 | https://github.com/Player-Doite/DoiteAuras |
