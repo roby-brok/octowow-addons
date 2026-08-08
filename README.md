@@ -41,7 +41,7 @@ several of the addons below depend on them.
 | Addon | Version | Source |
 |---|---|---|
 | pfQuest | 8.0.1 | **[my fork](https://github.com/roby-brok/pfQuest)** — adds map icon scaling and a fix for the map detaching from the quest log; built on [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest) continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
-| pfQuest [Octo DB] | — | **[my pack](https://github.com/roby-brok/pfQuest-octo)** — [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest-turtle) TurtleWoW database with [paokkerkir's](https://github.com/paokkerkir/pfQuest-octo) Octo pack folded in, so you do not have to pick one. Replaces both — do not install them alongside it. |
+| pfQuest [Octo DB] | 1.0.1 | **[my pack](https://github.com/roby-brok/pfQuest-octo)** — [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest-turtle) TurtleWoW database with [paokkerkir's](https://github.com/paokkerkir/pfQuest-octo) Octo pack folded in, so you do not have to pick one. Replaces both — do not install them alongside it. |
 | pfExtend | 1.0.6 | **[my fork](https://github.com/roby-brok/pfExtend)** — original by [Cliencer](https://github.com/Cliencer/pfExtend) and TinyStick. ⚠️ Heads up: while its QuestHelper browser is open it resets pfQuest's tracker and route whenever the list refreshes, so your tracked quests and current route disappear from under you. Not currently installed on my setup for that reason |
 | FlightMap | 1.12-1 | by Dhask — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
 
