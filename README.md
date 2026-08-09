@@ -27,8 +27,8 @@ several of the addons below depend on them.
 
 | Addon | Version | Source |
 |---|---|---|
-| pfUI | 9.0.7 | **[my fork](https://github.com/roby-brok/pfUI)** — original by [Shagu](https://github.com/shagu/pfUI), Turtle edition by me0wg4ming |
-| pfUI [Addon Skinner] | 0.4 | https://github.com/jrc13245/pfUI-addonskinner |
+| pfUI | 9.0.8 | **[my fork](https://github.com/roby-brok/pfUI)** — original by [Shagu](https://github.com/shagu/pfUI), Turtle edition by me0wg4ming |
+| pfUI [Addon Skinner] | 0.5 | **[my fork](https://github.com/roby-brok/pfUI-addonskinner)** of [jrc13245's](https://github.com/jrc13245/pfUI-addonskinner) — originals by [dein0s](https://gitlab.com/dein0s_wow_vanilla/pfUI-addonskinner) and [RoadBlock](https://github.com/Road-block/). Adds a skin for Mik's Scrolling Battle Text's options window |
 | pfUI [Better Totems] | 1.0 | **[my fork](https://github.com/roby-brok/pfUI-bettertotems)** — original by [Bombg](https://github.com/Bombg/pfUI-bettertotems) |
 | Modern Map Markers [Octo] | 2.4 | https://github.com/paokkerkir/ModernMapMarkers-octo — an OctoWoW fork of [tilare's original](https://github.com/tilare/ModernMapMarkers), adding Atlas map links and transport destinations |
 | LevelRange [Turtle] | 2.2.0 | https://github.com/Spartelfant/LevelRange-Turtle |
@@ -40,9 +40,9 @@ several of the addons below depend on them.
 
 | Addon | Version | Source |
 |---|---|---|
-| pfQuest | 8.0.1 | **[my fork](https://github.com/roby-brok/pfQuest)** — adds map icon scaling and a fix for the map detaching from the quest log; built on [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest) continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
-| pfQuest [Octo DB] | 1.0.3 | **[my pack](https://github.com/roby-brok/pfQuest-octo)** — [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest-turtle) TurtleWoW database with [paokkerkir's](https://github.com/paokkerkir/pfQuest-octo) Octo pack folded in, so you do not have to pick one. Replaces both — do not install them alongside it. |
-| pfExtend | 1.0.6 | **[my fork](https://github.com/roby-brok/pfExtend)** — original by [Cliencer](https://github.com/Cliencer/pfExtend) and TinyStick. ⚠️ Heads up: while its QuestHelper browser is open it resets pfQuest's tracker and route whenever the list refreshes, so your tracked quests and current route disappear from under you. Not currently installed on my setup for that reason |
+| pfQuest | 8.0.1 | **[my fork](https://github.com/roby-brok/pfQuest)** — adds map icon scaling, a fix for the map detaching from the quest log, a repair for the [Translate] button (it never worked), objective data for seven quests the database omits, and `/db checkdb`; built on [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest) continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
+| pfQuest [Octo DB] | 1.0.4 | **[my pack](https://github.com/roby-brok/pfQuest-octo)** — [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest-turtle) TurtleWoW database with [paokkerkir's](https://github.com/paokkerkir/pfQuest-octo) Octo pack folded in, so you do not have to pick one. Replaces both — do not install them alongside it. |
+| pfExtend | 1.0.7 | **[my fork](https://github.com/roby-brok/pfExtend)** — original by [Cliencer](https://github.com/Cliencer/pfExtend) and TinyStick. ⚠️ Heads up: while its QuestHelper browser is open it resets pfQuest's tracker and route whenever the list refreshes, so your tracked quests and current route disappear from under you. Not currently installed on my setup for that reason |
 | FlightMap | 1.12-1 | by Dhask — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
 
 ## Combat
