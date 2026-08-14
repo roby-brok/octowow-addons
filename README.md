@@ -8,6 +8,19 @@ people who wrote these; I just use them and occasionally fix something.
 
 Maintained by **Roby_Brok**.
 
+> ### Two setups — which list is for you?
+>
+> This page is the **classic setup**: shipped data tables, only the client mods the
+> launcher already provides, no extra steps. It keeps working and nothing here is going
+> away.
+>
+> Since August 2026 my own install is the
+> **[ClassicAPI setup](https://github.com/roby-brok/octowow-addons-classicAPI)** — rebuilt
+> around [brues-code's ClassicAPI](https://github.com/brues-code/ClassicAPI) DLL, with the
+> smoother event-driven pfUI. It asks one extra step of you: installing that DLL by hand,
+> because **the Octo client does not ship it**. Happy to do that → start there. Want zero
+> extra steps → stay here.
+
 ---
 
 ## Client mods (DLLs)
@@ -40,9 +53,9 @@ several of the addons below depend on them.
 
 | Addon | Version | Source |
 |---|---|---|
-| pfQuest | 8.0.1 | **[my fork](https://github.com/roby-brok/pfQuest)** — adds map icon scaling, a fix for the map detaching from the quest log, a repair for the [Translate] button (it never worked), objective data for seven quests the database omits, and `/db checkdb`; built on [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest) continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
-| pfQuest [Octo DB] | 1.0.4 | **[my pack](https://github.com/roby-brok/pfQuest-octo)** — [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest-turtle) TurtleWoW database with [paokkerkir's](https://github.com/paokkerkir/pfQuest-octo) Octo pack folded in, so you do not have to pick one. Replaces both — do not install them alongside it. |
-| pfExtend | 1.0.7 | **[my fork](https://github.com/roby-brok/pfExtend)** — original by [Cliencer](https://github.com/Cliencer/pfExtend) and TinyStick. ⚠️ Heads up: while its QuestHelper browser is open it resets pfQuest's tracker and route whenever the list refreshes, so your tracked quests and current route disappear from under you. Not currently installed on my setup for that reason |
+| pfQuest | 8.0.1 | **[my fork](https://github.com/roby-brok/pfQuest)** — adds map icon scaling, a fix for the map detaching from the quest log, a repair for the [Translate] button (it never worked), hand-verified objective corrections, and `/db checkdb` — which tells delivery/talk-to quests (whose map pin is their turn-in marker) apart from real data gaps; built on [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest) continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
+| pfQuest [Octo DB] | 1.0.13 | **[my pack](https://github.com/roby-brok/pfQuest-octo)** — [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest-turtle) TurtleWoW database with [paokkerkir's](https://github.com/paokkerkir/pfQuest-octo) Octo pack folded in, so you do not have to pick one, plus a long run of corrections verified against the server's own database. Replaces both — do not install them alongside it. |
+| pfExtend | 1.0.8 | **[my fork](https://github.com/roby-brok/pfExtend)** — original by [Cliencer](https://github.com/Cliencer/pfExtend) and TinyStick. ⚠️ While its QuestHelper browser is open it resets pfQuest's tracker and route on every refresh — close it when done |
 | FlightMap | 1.12-1 | by Dhask — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
 
 ## Combat
@@ -54,7 +67,7 @@ several of the addons below depend on them.
 | ShaguDPS | 3.0.1 | https://github.com/shagu/ShaguDPS |
 | Modified Power Auras | 1.5 | https://github.com/tdymel/ModifiedPowerAuras |
 | DoiteAuras | 1.8.7 | https://github.com/Player-Doite/DoiteAuras |
-| Mik's Scrolling Battle Text | v4.44-octo | **[my fork](https://github.com/roby-brok/MikScrollingBattleText)** — original by Mik, 4.43 maintained by Athene. Stops it silently switching combat logging to disk on (it had written 269 MB), adds a literal-prefix reject to the combat-log parser, and repairs an icon cache that was never read. None of it needs ClassicAPI. Keep the stock `MikScrollingBattleTextOptions` alongside it, unmodified |
+| Mik's Scrolling Battle Text | v5.0-octo | **[my fork](https://github.com/roby-brok/MikScrollingBattleText)** — original by Mik, now rebased onto [brues-code's continuation](https://github.com/brues-code/Vanilla_MikScrollingBattleText) (the living branch of the family). My fixes ride on top: it no longer silently switches combat logging to disk on (269 MB found), the combat-log parser gets a literal-prefix reject, and the icon cache is honoured. None of it needs ClassicAPI. Keep the stock `MikScrollingBattleTextOptions` alongside it, unmodified |
 | Aegis: RallyPower | 1.1.0 | https://github.com/Torchlite-bit/Aegis_RallyPower |
 | Aegis: Single Button Rotation | 1.1.4 | https://github.com/Torchlite-bit/Aegis_SBR |
 
@@ -92,6 +105,12 @@ please open an issue and I will link it and delete the copy.
 
 **Most of these install through the OctoWoW launcher**, which keeps its own catalogue at
 `https://octowow.st/api/addons.json`. That is the easiest route and it handles updates for you.
+
+**Installing from a GitHub ZIP:** the green *Code → Download ZIP* button unpacks as
+`Name-main` or `Name-master`. The game (and pfUI's addon integrations) only recognize the
+addon if the folder inside `Interface\AddOns` is named **exactly** the addon's own name
+(`pfUI`, `OWThreat`, …) — rename it after unzipping, or use the launcher or `git clone`
+instead.
 
 **The forks** exist only to carry fixes I hit while playing. Each one's README explains what
 was changed and why, and none of the changes are OctoWoW-specific. Use the original repositories
