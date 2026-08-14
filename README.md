@@ -70,7 +70,7 @@ add it yourself via *MODS → Your DLL mods → Add DLL*.
 | ShaguDPS | 3.0.1 | https://github.com/shagu/ShaguDPS |
 | Modified Power Auras | 1.5 | https://github.com/tdymel/ModifiedPowerAuras |
 | DoiteAuras | 1.8.7 | https://github.com/Player-Doite/DoiteAuras |
-| Mik's Scrolling Battle Text | v5.0-octo | **[my fork](https://github.com/roby-brok/MikScrollingBattleText)** — original by Mik, now rebased onto [brues-code's continuation](https://github.com/brues-code/Vanilla_MikScrollingBattleText) (the living branch of the family). My fixes ride on top: it no longer silently switches combat logging to disk on (269 MB found), the combat-log parser gets a literal-prefix reject, and the icon cache is honoured. None of it needs ClassicAPI. Keep the stock `MikScrollingBattleTextOptions` alongside it, unmodified — that folder ships in [jrc13245/Vanilla_MikScrollingBattleText](https://github.com/jrc13245/Vanilla_MikScrollingBattleText) |
+| Mik's Scrolling Battle Text | v5.0-octo | **[my fork](https://github.com/roby-brok/MikScrollingBattleText)** — original by Mik, now rebased onto [brues-code's continuation](https://github.com/brues-code/Vanilla_MikScrollingBattleText) (the living branch of the family). My fixes ride on top: it no longer silently switches combat logging to disk on (269 MB found), the combat-log parser gets a literal-prefix reject, and the icon cache is honoured. None of it needs ClassicAPI. **The repo ships both folders** — the core plus the stock `MikScrollingBattleTextOptions` (4.43, unmodified) — so one download installs the working pair |
 | Aegis: RallyPower | 1.1.0 | https://github.com/Torchlite-bit/Aegis_RallyPower |
 | Aegis: Single Button Rotation | 1.1.4 | https://github.com/Torchlite-bit/Aegis_SBR |
 
