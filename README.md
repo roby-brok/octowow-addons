@@ -10,9 +10,8 @@ Maintained by **Roby_Brok**.
 
 > ### Two setups — which list is for you?
 >
-> This page is the **classic setup**: shipped data tables, only the client mods the
-> launcher already provides, no extra steps. It keeps working and nothing here is going
-> away.
+> This page is the **classic setup**: addons with shipped data tables, on the standard
+> client-mod stack. It keeps working and nothing here is going away.
 >
 > Since August 2026 my own install is the
 > **[ClassicAPI setup](https://github.com/roby-brok/octowow-addons-classicAPI)** — rebuilt
@@ -27,6 +26,10 @@ Maintained by **Roby_Brok**.
 
 These are loaded by [VanillaFixes](https://github.com/hexblade/VanillaFixes) and are not addons —
 several of the addons below depend on them.
+
+The launcher ships most of the mod stack itself (dxvk, nampower, UnitXP, transmogFix,
+VanillaFixes and VanillaHelpers) under its **MODS** tab. **SuperWoW is not among them** —
+add it yourself via *MODS → Your DLL mods → Add DLL*.
 
 | Mod | Version | Source |
 |---|---|---|
