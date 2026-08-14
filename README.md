@@ -70,7 +70,7 @@ add it yourself via *MODS → Your DLL mods → Add DLL*.
 | ShaguDPS | 3.0.1 | https://github.com/shagu/ShaguDPS |
 | Modified Power Auras | 1.5 | https://github.com/tdymel/ModifiedPowerAuras |
 | DoiteAuras | 1.8.7 | https://github.com/Player-Doite/DoiteAuras |
-| Mik's Scrolling Battle Text | v5.0-octo | **[my fork](https://github.com/roby-brok/MikScrollingBattleText)** — original by Mik, now rebased onto [brues-code's continuation](https://github.com/brues-code/Vanilla_MikScrollingBattleText) (the living branch of the family). My fixes ride on top: it no longer silently switches combat logging to disk on (269 MB found), the combat-log parser gets a literal-prefix reject, and the icon cache is honoured. None of it needs ClassicAPI. Keep the stock `MikScrollingBattleTextOptions` alongside it, unmodified |
+| Mik's Scrolling Battle Text | v5.0-octo | **[my fork](https://github.com/roby-brok/MikScrollingBattleText)** — original by Mik, now rebased onto [brues-code's continuation](https://github.com/brues-code/Vanilla_MikScrollingBattleText) (the living branch of the family). My fixes ride on top: it no longer silently switches combat logging to disk on (269 MB found), the combat-log parser gets a literal-prefix reject, and the icon cache is honoured. None of it needs ClassicAPI. Keep the stock `MikScrollingBattleTextOptions` alongside it, unmodified — that folder ships in [jrc13245/Vanilla_MikScrollingBattleText](https://github.com/jrc13245/Vanilla_MikScrollingBattleText) |
 | Aegis: RallyPower | 1.1.0 | https://github.com/Torchlite-bit/Aegis_RallyPower |
 | Aegis: Single Button Rotation | 1.1.4 | https://github.com/Torchlite-bit/Aegis_SBR |
 
@@ -81,7 +81,7 @@ add it yourself via *MODS → Your DLL mods → Add DLL*.
 | SuperCleveRoidMacros | 2.4 | https://github.com/jrc13245/SuperCleveRoidMacros |
 | SuperMacro (SuperWoW support) | 3.19 | https://github.com/jrc13245/SuperMacro-turtle-SuperWoW |
 | SuperAPI | — | https://github.com/balakethelock/SuperAPI |
-| Nampower Settings | — | https://github.com/Dusk-92/NampowerSettings |
+| Nampower Settings | — | https://github.com/Emyrk/nampowersettings — the companion settings addon from the nampower maintainer |
 | UnitXP SP3 Addon | — | https://github.com/whtmst/UnitXP_SP3_Addon |
 
 ## Items, bags & characters
