@@ -43,7 +43,7 @@ add it yourself via *MODS → Your DLL mods → Add DLL*.
 
 | Addon | Version | Source |
 |---|---|---|
-| pfUI | 9.0.8 | **[my fork](https://github.com/roby-brok/pfUI)** — original by [Shagu](https://github.com/shagu/pfUI), Turtle edition by me0wg4ming |
+| pfUI | 9.0.8 | **[my fork](https://github.com/roby-brok/pfUI-legacy)** — original by [Shagu](https://github.com/shagu/pfUI), Turtle edition by me0wg4ming |
 | pfUI [Addon Skinner] | 0.5 | **[my fork](https://github.com/roby-brok/pfUI-addonskinner)** of [jrc13245's](https://github.com/jrc13245/pfUI-addonskinner) — originals by [dein0s](https://gitlab.com/dein0s_wow_vanilla/pfUI-addonskinner) and [RoadBlock](https://github.com/Road-block/). Adds a skin for Mik's Scrolling Battle Text's options window |
 | pfUI [Better Totems] | 1.0 | **[my fork](https://github.com/roby-brok/pfUI-bettertotems)** — original by [Bombg](https://github.com/Bombg/pfUI-bettertotems) |
 | Modern Map Markers [Octo] | 2.4 | https://github.com/paokkerkir/ModernMapMarkers-octo — an OctoWoW fork of [tilare's original](https://github.com/tilare/ModernMapMarkers), adding Atlas map links and transport destinations |
@@ -56,7 +56,7 @@ add it yourself via *MODS → Your DLL mods → Add DLL*.
 
 | Addon | Version | Source |
 |---|---|---|
-| pfQuest | 8.0.1 | **[my fork](https://github.com/roby-brok/pfQuest)** — adds map icon scaling, a fix for the map detaching from the quest log, a repair for the [Translate] button (it never worked), hand-verified objective corrections, and `/db checkdb` — which tells delivery/talk-to quests (whose map pin is their turn-in marker) apart from real data gaps; built on [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest) continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
+| pfQuest | 8.0.1 | **[my fork](https://github.com/roby-brok/pfQuest-legacy)** — adds map icon scaling, a fix for the map detaching from the quest log, a repair for the [Translate] button (it never worked), hand-verified objective corrections, and `/db checkdb` — which tells delivery/talk-to quests (whose map pin is their turn-in marker) apart from real data gaps; built on [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest) continuation of [Shagu's original](https://github.com/shagu/pfQuest) |
 | pfQuest [Octo DB] | 1.0.13 | **[my pack](https://github.com/roby-brok/pfQuest-octo)** — [The Kludge Bureau's](https://github.com/The-Kludge-Bureau/pfQuest-turtle) TurtleWoW database with [paokkerkir's](https://github.com/paokkerkir/pfQuest-octo) Octo pack folded in, so you do not have to pick one, plus a long run of corrections verified against the server's own database. Replaces both — do not install them alongside it. |
 | pfExtend | 1.0.8 | **[my fork](https://github.com/roby-brok/pfExtend)** — original by [Cliencer](https://github.com/Cliencer/pfExtend) and TinyStick. ⚠️ While its QuestHelper browser is open it resets pfQuest's tracker and route on every refresh — close it when done |
 | FlightMap | 1.12-1 | by Dhask — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
