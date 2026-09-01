@@ -66,7 +66,7 @@ add it yourself via *MODS → Your DLL mods → Add DLL*.
 | Addon | Version | Source |
 |---|---|---|
 | BigWigs | 2.0.0 | https://github.com/pepopo978/BigWigs |
-| OWThreat | 1.4.0 | **[my fork](https://github.com/roby-brok/OWThreat)** — original ([TWThreat](https://github.com/MarcelineVQ/TWThreat)) by Xerron/Er. Renamed, with ~15 bug fixes and the dead code stripped out. Speaks the same threat API, so it still works with raiders running stock TWThreat — but do not install both |
+| OWThreat | — | **Retired.** My fork of [TWThreat](https://github.com/MarcelineVQ/TWThreat) by Xerron/Er is gone; use the original. GreedMeter's threat mode covers what the fork was for |
 | ShaguDPS | 3.0.1 | https://github.com/shagu/ShaguDPS |
 | Modified Power Auras | 1.5 | https://github.com/tdymel/ModifiedPowerAuras |
 | DoiteAuras | 1.8.7 | https://github.com/Player-Doite/DoiteAuras |
@@ -93,7 +93,7 @@ add it yourself via *MODS → Your DLL mods → Add DLL*.
 | SortBags | — | https://github.com/shirsig/SortBags |
 | BetterCharacterStats | 1.15.3 | https://github.com/pepopo978/BetterCharacterStats |
 | StatCompare | 2.0.0 Beta | by slashboy, updated by Provocateur@turtlewow — [mirror](https://github.com/roby-brok/octowow-addon-mirrors) |
-| OctoMail | 1.5.0 | **[my fork](https://github.com/roby-brok/OctoMail)** of [TurtleMail](https://github.com/sica42/TurtleMail) by [shirsig](https://github.com/shirsig) and [sica42](https://github.com/sica42) — fixes an autocomplete list and a mail log that both grew forever. Imports your TurtleMail data on first run |
+| OctoMail | — | **Retired.** My fork of [TurtleMail](https://github.com/sica42/TurtleMail) by [shirsig](https://github.com/shirsig) and [sica42](https://github.com/sica42) is gone; use the original |
 | PizzaWorldBuffs | 2.0.0 | https://github.com/acid9000/PizzaWorldBuffs |
 
 ---
@@ -112,7 +112,7 @@ please open an issue and I will link it and delete the copy.
 **Installing from a GitHub ZIP:** the green *Code → Download ZIP* button unpacks as
 `Name-main` or `Name-master`. The game (and pfUI's addon integrations) only recognize the
 addon if the folder inside `Interface\AddOns` is named **exactly** the addon's own name
-(`pfUI`, `OWThreat`, …) — rename it after unzipping, or use the launcher or `git clone`
+(`pfUI`, `pfQuest`, …) — rename it after unzipping, or use the launcher or `git clone`
 instead.
 
 **The forks** exist only to carry fixes I hit while playing. Each one's README explains what
